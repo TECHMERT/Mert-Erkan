@@ -8,7 +8,7 @@ Bu proje, yalnızca bir hesap makinesi geliştirmekle sınırlı kalmayıp block
 Vizyonumuz:
 "Daha özgür işlemler için blockchain altyapılı hesap makinesini seçin!"
 
-Blockchain altyapısının sunduğu benzersiz avantajlar:
+🌟Blockchain altyapısının sunduğu benzersiz avantajlar:
 
 Güvenlik: İşlemler, blockchain'in sunduğu kriptografik güvenlikle korunur.
 Şeffaflık: Her işlem blockchain üzerinde kaydedilir ve doğrulanabilir.
