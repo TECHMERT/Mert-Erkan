@@ -1,4 +1,4 @@
-# Mert-Erkan
+# Blockchain altyapılı hesap makinesi
 🧮 Blockchain Altyapılı Hesap Makinesi
 Blockchain Altyapılı Hesap Makinesi, matematiksel işlemleri merkeziyetsiz bir yapı üzerinde gerçekleştiren yenilikçi bir projedir. Bu uygulama, blockchain teknolojisinin sunduğu güvenlik, şeffaflık ve merkeziyetsiz işlem avantajlarını bir hesap makinesinde bir araya getirmeyi hedefliyor. Geleneksel hesap makinelerinden farklı olarak, bu uygulama işlem geçmişinizi güvenli bir şekilde saklar ve işlemleri daha özgür bir şekilde gerçekleştirme imkanı sunar.
 
