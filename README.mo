@@ -2,6 +2,11 @@
 Project name:
 - Blockchain altyapılı Hesap Makinesi 
 
+Project details:
+blockchain altyapılı hesap makinemin diğer hesap makinelerinden en büyyük farkı merkeziyetsiz olması ve güvenli bir işlem imkanı sunması
+Vision:
+DAHA ÖZGÜR İŞLEMLER İÇİN BLOCKCHAİN ALTYAPILI HESAP MAKİNESİNİ SEÇİN
+
 Who are you: 
 - name: Mert Erkan
 - İzmir Menderes MTAL Elektrik-Elektronik Teknolojisi son sınıf öğrencisiyim
@@ -12,7 +17,3 @@ Who are you:
 - TEKNOFEST
 - HACKATHON
 
-Project details:
-blockchain altyapılı hesap makinemin diğer hesap makinelerinden en büyyük farkı merkeziyetsiz olması ve güvenli bir işlem imkanı sunması
-Vision:
-DAHA ÖZGÜR İŞLEMLER İÇİN BLOCKCHAİN ALTYAPILI HESAP MAKİNESİNİ SEÇİN
